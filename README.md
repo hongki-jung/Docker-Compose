@@ -2,7 +2,8 @@ Docker-compose
 
 멀티 컨테이너 배포
 
-container 
+Container 
 1. 프론트 - React
-2. 백엔드 - node
+2. 백엔드 - node.js 
 3. DB- mysql
+4. Nginx - proxy server
