@@ -13,9 +13,7 @@
 
 ### 기본 실행 절차
 1)각 Application의  Dockerfile정의 ( 앱 환경 설정 )
-
 2)docker-compose.yml 설정 ( 앱과 같이 수행될 서비스 설정 )
-
 3)docker-compose up을 통한 전체 앱 실행
 
 
